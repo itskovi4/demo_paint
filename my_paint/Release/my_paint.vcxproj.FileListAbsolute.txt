@@ -1,0 +1,2 @@
+C:\Users\390\Desktop\5 сем\my_paint\my_paint\Release\mypaint.MyForm.resources
+C:\Users\390\Desktop\5 сем\my_paint\my_paint\Release\my_paint.vcxproj.GenerateResource.cache

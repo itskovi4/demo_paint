@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+C:\Users\390\Desktop\5 сем\my_paint\my_paint\MyForm.cpp(17,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\390\Desktop\5 сем\my_paint\my_paint\MyForm.cpp(73,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\390\Desktop\5 сем\my_paint\my_paint\MyForm.cpp(104,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\390\Desktop\5 сем\my_paint\my_paint\MyForm.cpp(171,28): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\390\Desktop\5 сем\my_paint\my_paint\MyForm.cpp(172,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\390\Desktop\5 сем\my_paint\my_paint\MyForm.cpp(177,28): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\390\Desktop\5 сем\my_paint\my_paint\MyForm.cpp(178,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm.obj : warning LNK4248: неразрешенная лексема TypeRef (01000015) для "mypaint.TBrushStyle"; образ нельзя запустить
+  my_paint.vcxproj -> C:\Users\390\Desktop\5 сем\my_paint\Release\my_paint.exe
